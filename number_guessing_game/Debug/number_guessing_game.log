@@ -1,0 +1,7 @@
+﻿  number_guessing_game.cpp
+C:\Users\ZERO ONE TECH\source\repos\number_guessing_game\number_guessing_game\number_guessing_game.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ZERO ONE TECH\source\repos\number_guessing_game\number_guessing_game\number_guessing_game.cpp(53,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ZERO ONE TECH\source\repos\number_guessing_game\number_guessing_game\number_guessing_game.cpp(76,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ZERO ONE TECH\source\repos\number_guessing_game\number_guessing_game\number_guessing_game.cpp(97,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ZERO ONE TECH\source\repos\number_guessing_game\number_guessing_game\number_guessing_game.cpp(119,11): warning C4553: '==': result of expression not used; did you intend '='?
+  number_guessing_game.vcxproj -> C:\Users\ZERO ONE TECH\source\repos\number_guessing_game\Debug\number_guessing_game.exe
